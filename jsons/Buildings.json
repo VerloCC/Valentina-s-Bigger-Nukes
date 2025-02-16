@@ -3,35 +3,34 @@
 		"name": "Atomic Acceleration MK-1",
 		"cost": XXXXXXXXXX,
 		"requiredTech": "XXXXXXXXXX"
-		"maintenance": XXXXXXXXXX,
-		"uniques": ["XXXXXXXXXX"]
+		"maintenance": 3,
+		"uniques": ["[+10]% Production when constructing [Missile] units [in all cities]"]
 	},
 	{
 		"name": "Atomic Acceleration MK-2",
 		"cost": XXXXXXXXXX,
 		"requiredTech": "XXXXXXXXXX"
-		"maintenance": XXXXXXXXXX,
-		"uniques": ["XXXXXXXXXX"]
+		"maintenance": 3,
+		"uniques": ["[+10]% Production when constructing [Missile] units [in all cities]"]
 	},
 	{
 		"name": "Atomic Acceleration MK-3",
 		"cost": XXXXXXXXXX,
 		"requiredTech": "XXXXXXXXXX"
-		"maintenance": XXXXXXXXXX,
-		"uniques": ["XXXXXXXXXX"]
+		"maintenance": 3,
+		"uniques": ["[+10]% Production when constructing [Missile] units [in all cities]"]
 	},
 	{
 		"name": "Atomic Acceleration MK-4",
 		"cost": XXXXXXXXXX,
 		"requiredTech": "XXXXXXXXXX"
-		"maintenance": XXXXXXXXXX,
-		"uniques": ["XXXXXXXXXX"]
+		"maintenance": 3,
+		"uniques": ["[+10]% Production when constructing [Missile] units [in all cities]"]
 	},
 	{
 		"name": "Atomic Acceleration MK-5",
 		"cost": XXXXXXXXXX,
-		"requiredTech": "XXXXXXXXXX"
-		"maintenance": XXXXXXXXXX,
-		"uniques": ["XXXXXXXXXX"]
+		"maintenance": 3,
+		"uniques": ["[+10]% Production when constructing [Missile] units [in all cities]"]
 	},
 ]

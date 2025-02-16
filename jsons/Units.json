@@ -65,7 +65,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "PX6 (Nightfall)",
+		"name": "R8X6 (Reaper)",
 		"unitType": "Missile",
 		"movement": 1,
 		"strength": 14400,

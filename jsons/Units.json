@@ -9,7 +9,7 @@
 		"cost": 1667,
 		"requiredTech": "Nuclear Fusion",
 		"uniques": ["Nuclear weapon of Strength [3]", "Only available <if [Manhattan Project] is constructed>",
-			"Blast radius [3]", "Consumes [4] [Uranium]", "Triggers a global alert upon build start", "[12] Sight"],
+			"Blast radius [3]", "Consumes [4] [Uranium]", "Consumes [2] [Iron]", "Consumes [1] [Coal]", "Consumes [3] [Oil]", "Triggers a global alert upon build start", "[12] Sight"],
 		"attackSound": "nuke"
 	},
 	{
@@ -22,7 +22,7 @@
 		"cost": 2778,
 		"requiredTech": "Nuclear Fusion",
 		"uniques": ["Nuclear weapon of Strength [3]", "Only available <if [Manhattan Project] is constructed>",
-			"Blast radius [5]", "Consumes [8] [Uranium]", "Triggers a global alert upon build start", "[15] Sight"],
+			"Blast radius [5]", "Consumes [8] [Uranium]", "Consumes [4] [Iron]", "Consumes [2] [Coal]", "Consumes [6] [Oil]", "Triggers a global alert upon build start", "[15] Sight"],
 		"attackSound": "nuke"
 	},
 	{
@@ -35,7 +35,7 @@
 		"cost": 4630,
 		"requiredTech": "Nuclear Fusion",
 		"uniques": ["Nuclear weapon of Strength [3]", "Only available <if [Manhattan Project] is constructed>",
-			"Blast radius [7]", "Consumes [16] [Uranium]", "Triggers a global alert upon build start", "[18] Sight"],
+			"Blast radius [7]", "Consumes [16] [Uranium]", "Consumes [8] [Iron]", "Consumes [4] [Coal]", "Consumes [12] [Oil]", "Triggers a global alert upon build start", "[18] Sight"],
 		"attackSound": "nuke"
 	},
 	{
@@ -48,7 +48,7 @@
 		"cost": 7715,
 		"requiredTech": "Nuclear Fusion",
 		"uniques": ["Nuclear weapon of Strength [3]", "Only available <if [Manhattan Project] is constructed>",
-			"Blast radius [10]", "Consumes [32] [Uranium]", "Triggers a global alert upon build start", "[21] Sight"],
+			"Blast radius [10]", "Consumes [32] [Uranium]", "Consumes [16] [Iron]", "Consumes [8] [Coal]", "Consumes [24] [Oil]", "Triggers a global alert upon build start", "[21] Sight"],
 		"attackSound": "nuke"
 	},
 	{
@@ -61,7 +61,7 @@
 		"cost": 12859,
 		"requiredTech": "Nuclear Fusion",
 		"uniques": ["Nuclear weapon of Strength [3]", "Only available <if [Manhattan Project] is constructed>",
-			"Blast radius [15]", "Consumes [64] [Uranium]", "Triggers a global alert upon build start", "[26] Sight"],
+			"Blast radius [15]", "Consumes [64] [Uranium]", "Consumes [32] [Iron]", "Consumes [16] [Coal]", "Consumes [48] [Oil]", "Triggers a global alert upon build start", "[26] Sight"],
 		"attackSound": "nuke"
 	},
 	{
@@ -74,7 +74,7 @@
 		"cost": 19289,
 		"requiredTech": "Nuclear Fusion",
 		"uniques": ["Nuclear weapon of Strength [3]", "Only available <if [Manhattan Project] is constructed>",
-			"Blast radius [23]", "Consumes [96] [Uranium]", "Triggers a global alert upon build start", "[39] Sight"],
+			"Blast radius [23]", "Consumes [96] [Uranium]", "Consumes [48] [Iron]", "Consumes [24] [Coal]", "Consumes [72] [Oil]", "Triggers a global alert upon build start", "[39] Sight"],
 		"attackSound": "nuke"
 	},
 ]

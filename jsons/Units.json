@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Name",
+		"name": "XTC-235 (MK-1)",
 		"unitType": "Missile",
 		"movement": 1,
 		"strength": 600,
@@ -13,7 +13,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Name",
+		"name": "XTC-235 (MK-2)",
 		"unitType": "Missile",
 		"movement": 1,
 		"strength": 1200,
@@ -26,7 +26,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Name",
+		"name": "XTC-235 (MK-3)",
 		"unitType": "Missile",
 		"movement": 1,
 		"strength": 2400,
@@ -39,7 +39,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Name",
+		"name": "XTC-235 (MK-4)",
 		"unitType": "Missile",
 		"movement": 1,
 		"strength": 4800,
@@ -52,7 +52,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Name",
+		"name": "XTC-235 (MK-5)",
 		"unitType": "Missile",
 		"movement": 1,
 		"strength": 9600,

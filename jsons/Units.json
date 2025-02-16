@@ -65,7 +65,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Name",
+		"name": "PX6 (Nightfall)",
 		"unitType": "Missile",
 		"movement": 1,
 		"strength": 14400,

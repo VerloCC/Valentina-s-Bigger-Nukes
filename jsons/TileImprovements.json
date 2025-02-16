@@ -4,9 +4,9 @@
 		"turnsToBuild": 2,
 		// Has no tech requirements as it can always be built
 		"uniques": ["Can be built outside your borders", "Excluded from map editor", 
-			"Provides [1] [Nuclear Waste] <with [25]% chance>", "Provides [2] [Nuclear Waste] <with [20]% chance>", "Provides [3] [Nuclear Waste] <with [20]% chance>", 
-			"Provides [4] [Nuclear Waste] <with [15]% chance>", "Provides [5] [Nuclear Waste] <with [10]% chance>", "Provides [6] [Nuclear Waste] <with [4]% chance>", 
-			"Provides [7] [Nuclear Waste] <with [3]% chance>", "Provides [8] [Nuclear Waste] <with [2]% chance>", "Provides [9] [Nuclear Waste] <with [1]% chance>"],
+			"Instantly provides [1] [Nuclear Waste] <with [25]% chance>", "Instantly provides [2] [Nuclear Waste] <with [20]% chance>", "Instantly provides [3] [Nuclear Waste] <with [20]% chance>", 
+			"Instantly provides [4] [Nuclear Waste] <with [15]% chance>", "Instantly provides [5] [Nuclear Waste] <with [10]% chance>", "Instantly provides [6] [Nuclear Waste] <with [4]% chance>", 
+			"Instantly provides [7] [Nuclear Waste] <with [3]% chance>", "Instantly provides [8] [Nuclear Waste] <with [2]% chance>", "Instantly provides [9] [Nuclear Waste] <with [1]% chance>"],
 		"shortcutKey": "X"
 	}
 ]

@@ -1,7 +1,0 @@
-[
-	{
-		"name": "Nuclear Waste",
-		"resourceType": "Strategic",
-		"uniques": ["Doesn't generate naturally", "Stockpiled"],
-	}
-]

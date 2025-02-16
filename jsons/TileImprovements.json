@@ -4,7 +4,7 @@
 		"turnsToBuild": 2,
 		// Has no tech requirements as it can always be built
 		"uniques": ["Can be built outside your borders", "Excluded from map editor", 
-			"Provides [1] [Uranium] <with [10]% chance>", "Provides [2] [Uranium] <with [5]% chance>", "Provides [3] [Uranium Waste] <with [4]% chance>", 
+			"Provides [1] [Uranium] <with [10]% chance>", "Provides [2] [Uranium] <with [5]% chance>", "Provides [3] [Uranium] <with [4]% chance>", 
 			"Provides [4] [Uranium] <with [3]% chance>", "Provides [5] [Uranium] <with [2]% chance>", "Provides [6] [Uranium] <with [1]% chance>"],
 		"shortcutKey": "X"
 	}

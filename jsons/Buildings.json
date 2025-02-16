@@ -2,34 +2,35 @@
 	{
 		"name": "Atomic Acceleration MK-1",
 		"cost": 450,
-		"requiredTech": "XXXXXXXXXX"
+		"requiredTech": "Particle Physics"
 		"maintenance": 3,
 		"uniques": ["[+10]% Production when constructing [Missile] units [in all cities]", "Consumes [1] [Copper]", "Consumes [2] [Iron]", "Consumes [2] [Aluminum]", "Consumes [4] [Coal]"]
 	},
 	{
 		"name": "Atomic Acceleration MK-2",
 		"cost": 450,
-		"requiredTech": "XXXXXXXXXX"
+		"requiredTech": "Particle Physics"
 		"maintenance": 3,
 		"uniques": ["[+10]% Production when constructing [Missile] units [in all cities]", "Consumes [1] [Gems]", "Consumes [2] [Iron]", "Consumes [2] [Aluminum]", "Consumes [4] [Coal]"]
 	},
 	{
 		"name": "Atomic Acceleration MK-3",
 		"cost": 450,
-		"requiredTech": "XXXXXXXXXX"
+		"requiredTech": "Particle Physics"
 		"maintenance": 3,
 		"uniques": ["[+10]% Production when constructing [Missile] units [in all cities]", "Consumes [1] [Gold Ore]", "Consumes [2] [Iron]", "Consumes [2] [Aluminum]", "Consumes [4] [Coal]"]
 	},
 	{
 		"name": "Atomic Acceleration MK-4",
 		"cost": 450,
-		"requiredTech": "XXXXXXXXXX"
+		"requiredTech": "Particle Physics"
 		"maintenance": 3,
 		"uniques": ["[+10]% Production when constructing [Missile] units [in all cities]","Consumes [1] [Silver]", "Consumes [2] [Iron]", "Consumes [2] [Aluminum]", "Consumes [4] [Coal]"]
 	},
 	{
 		"name": "Atomic Acceleration MK-5",
 		"cost": 450,
+		"requiredTech": "Particle Physics"
 		"maintenance": 3,
 		"uniques": ["[+10]% Production when constructing [Missile] units [in all cities]", "Consumes [1] [Marble]", "Consumes [2] [Iron]", "Consumes [2] [Aluminum]", "Consumes [4] [Coal]"]
 	},

@@ -1,34 +1,34 @@
 [
 	{
-		"name": "Nuclear construction proficiency 1",
+		"name": "Atomic Acceleration MK-1",
 		"cost": XXXXXXXXXX,
 		"requiredTech": "XXXXXXXXXX"
 		"maintenance": XXXXXXXXXX,
 		"uniques": ["XXXXXXXXXX"]
 	},
 	{
-		"name": "XXXXXXXXXX",
+		"name": "Atomic Acceleration MK-2",
 		"cost": XXXXXXXXXX,
 		"requiredTech": "XXXXXXXXXX"
 		"maintenance": XXXXXXXXXX,
 		"uniques": ["XXXXXXXXXX"]
 	},
 	{
-		"name": "XXXXXXXXXX",
+		"name": "Atomic Acceleration MK-3",
 		"cost": XXXXXXXXXX,
 		"requiredTech": "XXXXXXXXXX"
 		"maintenance": XXXXXXXXXX,
 		"uniques": ["XXXXXXXXXX"]
 	},
 	{
-		"name": "XXXXXXXXXX",
+		"name": "Atomic Acceleration MK-4",
 		"cost": XXXXXXXXXX,
 		"requiredTech": "XXXXXXXXXX"
 		"maintenance": XXXXXXXXXX,
 		"uniques": ["XXXXXXXXXX"]
 	},
 	{
-		"name": "XXXXXXXXXX",
+		"name": "Atomic Acceleration MK-5",
 		"cost": XXXXXXXXXX,
 		"requiredTech": "XXXXXXXXXX"
 		"maintenance": XXXXXXXXXX,
